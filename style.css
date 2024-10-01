@@ -37,7 +37,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: rgb(110, 81, 0);
     display: flex;
 }
 .sidebar {
@@ -64,3 +64,28 @@ h2, h3 {
     max-width: 800px;
     margin: auto;
  }
+          /* portfolio styles */
+          .content h1 {
+            color: rgb(58, 85, 0);
+        }
+
+        #portfolio {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        #portfolio li {
+            background: #680000;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+
+        #portfolio li:hover {
+            background: #784e4e;
+        }
+
+        #portfolio a {
+            text-decoration: none;
+            color: #454545;
+        }
