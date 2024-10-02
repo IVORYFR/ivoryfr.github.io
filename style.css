@@ -75,17 +75,17 @@ h2, h3 {
         }
 
         #portfolio li {
-            background: #680000;
+            background: #ff0000;
             padding: 10px;
             border-radius: 10px;
             margin-bottom: 10px;
         }
 
         #portfolio li:hover {
-            background: #784e4e;
+            background: #07ff28;
         }
 
         #portfolio a {
             text-decoration: none;
-            color: #454545;
+            color: #ff0000;
         }
